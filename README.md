@@ -22,4 +22,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayank-cyber-cell&show_icons=true&locale=en&layout=compact" alt="mayank-cyber-cell" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-cyber-cell&" alt="mayank-cyber-cell" /></p>
